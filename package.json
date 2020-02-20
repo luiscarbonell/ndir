@@ -1,6 +1,6 @@
 {
   "name": "nuedir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> Make Node.js repositories",
   "main": "cli.js",
   "bin": {
