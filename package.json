@@ -1,5 +1,5 @@
 {
-  "name": "ndir",
+  "name": "nuedir",
   "version": "1.0.0",
   "description": "> Make Node.js repositories",
   "main": "cli.js",
